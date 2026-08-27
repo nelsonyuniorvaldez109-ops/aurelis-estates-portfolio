@@ -1,0 +1,8 @@
+/* Editorial serif for architecture, paired with a clear sans-serif for information. */
+body { font-family: "Manrope", Arial, sans-serif; line-height: 1.6; }
+h1, h2, .service-list h3 { font-family: "Cormorant Garamond", Georgia, serif; }
+h1 { font-weight: 500; letter-spacing: -5px; }
+h2 { font-weight: 500; letter-spacing: -3.2px; }
+.service-list h3 { font-size: 42px; font-weight: 500; }
+.wordmark { font-family: "Manrope", Arial, sans-serif; font-weight: 600; }
+@media (max-width: 760px) { .service-list h3 { font-size: 33px; } }
