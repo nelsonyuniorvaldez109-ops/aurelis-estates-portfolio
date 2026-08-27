@@ -5,3 +5,6 @@ Thumbs.db
 # Editor settings
 .vscode/
 .idea/
+
+# Legacy local asset from an earlier version of the demo
+assets/images/hero-nexora.png
